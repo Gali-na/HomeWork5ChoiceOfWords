@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="565cf05e-cf49-44b4-984b-1d9c0d265490" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork2_3new/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork2_3new/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork2_3new/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork5_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork5_2/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork5_3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork5_3/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork5_3/src/main/java/FileWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork5_3/src/test/java/FileWorkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Robot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Robot/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Robot/src/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Robot/src/main/java/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Robot/src/main/java/FieldXY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Robot/src/main/java/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Robot/src/test/java/FieldXYWithExtremeDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Robot/src/test/java/FieldXYWithNormalDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Robot2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Robot2/src/travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Task3_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Task3_1/src/main/java/SqrtOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Task3_1/src/test/java/SqrtOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1/src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1/src/test/java/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1/src/test/java/EngineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../File/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_2(1)/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_2(1)/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_2(1)/src/main/java/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_2(1)/src/main/java/StorageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_2(1)/src/test/java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_2(1)/src/test/java/StorageImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_2_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_2_2/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_2_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_4/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_4/src/main/java/FibonacciSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_4/src/test/java/FibonacciSequenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_5/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_5/src/main/java/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork6_5/src/test/java/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunctionalInterface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunctionalInterface/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunctionalInterface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW5FileCopy/DirectoryOne/fileOne.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW5FileCopy/DirectoryOne/fileTree.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW5FileCopy/DirectoryOne/fileTwo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW5FileCopy/src/CopyFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW5FileCopy/src/FilterForFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW5FileCopy/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/src/main/java/SymmetricDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_10_2/src/test/java/SymmetricDifferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork%CopyFiles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork%CopyFiles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork%CopyFiles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork%CopyFiles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork%CopyFiles/CopyFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork%CopyFiles/FilterForFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork%CopyFiles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork%CopyFiles/src/CopyFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork%CopyFiles/src/FilterForFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork%CopyFiles/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/file4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/src/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/src/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/src/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/src/file4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/src/main/java/TreeSetCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_1/src/test/java/TreeSetCharactersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_2/src/main/java/SymmetricDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10_2/src/test/java/SymmetricDifferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10__2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10__2/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork10__2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5CopyFiles/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5CopyFiles/DirectoryOne/File.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5CopyFiles/DirectoryOne/File.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5CopyFiles/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5CopyFiles/src/main/java/CopyFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5CopyFiles/src/main/java/FilterForFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5CopyFiles/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork7_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/file4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/src/main/java/TreeSetCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/src/test/java/TreeSetCharactersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_2/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_2/src/main/java/SymmetricDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_10_2/src/test/java/SymmetricDifferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_8_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_8_1/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit shop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit shop/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit shop/leftovers.cvs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit shop/src/main/java/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit shop/src/test/java/TestShopCVS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit/src/main/java/Calculete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit/src/test/java/CalculeteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/Bulldozer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/Excavator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/MachineProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/MachineService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/MachineServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/ProducerBuldozers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/ProducerExcavators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/ProducerTracktor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/Tracktor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/main/java/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PECS/src/test/java/MachineServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reflection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reflection/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reflection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reflection/src/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reflection/src/MAin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reflection/src/Parents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repository/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repository/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repository/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repository/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singelton/src/Singelton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/src/main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/src/main/java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/src/main/java/JavaStreamApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/src/main/java/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/src/test/java/JavaStreamApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_6_2string/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_6_2string/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_6_2string/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestRepository/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestRepository/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestRepository/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestRepository/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestRepository/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestRepository/src/Pepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inject/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/src/main/java/dao/DaoOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/src/main/java/dao/DaoShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/src/main/java/daoImpl/DaoOrderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/src/main/java/lib/Inject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/src/main/java/lib/Injector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/src/main/java/model/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/src/main/java/serviseImpl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/src/main/java/serviseImpl/ShoppingCartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../internet-shop/src/main/java/serviseImpl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit5/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../time/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../time/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../time/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../time/src/main/java/DateTimePart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../time/src/main/java/JavaDateTimeApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../time/src/test/java/JavaDateTimeApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/main/java/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/main/java/MyMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/main/java/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/test/java/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/test/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/test/java/MyHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/test/java/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zoo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zoo/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zoo/src/main/java/LandAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyFile/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyFile/src/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../equals_hashcode/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../equals_hashcode/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/test/java/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/test/java/EngineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temp/src/temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test2/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test2/src/Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test2/src/temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../sgrt/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../sgrt/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HomeWork3_2/src/main/java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HomeWork3_2/src/main/java/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/IllegalDateParametersException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/IllegalDateParametersException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/SalaryInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/SalaryInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/exception/IllegalDateParametersException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/exception/IllegalDateParametersException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/SqrtOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/SqrtOperation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1k3QohMOx5dVeYxel2HhI9npVnn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="565cf05e-cf49-44b4-984b-1d9c0d265490" name="Default Changelist" comment="" />
+      <created>1604926971064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604926971064</updated>
+    </task>
+    <servers />
+  </component>
+</project>
