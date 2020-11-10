@@ -55,6 +55,10 @@
       <change afterPath="$PROJECT_DIR$/../FunctionalInterface/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FunctionalInterface/.travis.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FunctionalInterface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW5FileCopy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW5FileCopy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW5FileCopy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW5FileCopy/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HW5FileCopy/DirectoryOne/fileOne.doc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HW5FileCopy/DirectoryOne/fileTree.doc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HW5FileCopy/DirectoryOne/fileTwo.txt" afterDir="false" />
@@ -108,6 +112,9 @@
       <change afterPath="$PROJECT_DIR$/../HomeWork5CopyFiles/src/main/java/CopyFiles.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HomeWork5CopyFiles/src/main/java/FilterForFile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HomeWork5CopyFiles/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HomeWork7_1/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HomeWork_10_1/.travis.yml" afterDir="false" />
@@ -280,6 +287,8 @@
       <change beforePath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/IllegalDateParametersException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/IllegalDateParametersException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/SalaryInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/SalaryInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/exception/IllegalDateParametersException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HomeWork3_3/src/main/java/exception/IllegalDateParametersException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../src/main/java/SqrtOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/main/java/SqrtOperation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -287,8 +296,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k3QohMOx5dVeYxel2HhI9npVnn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -299,6 +315,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeWork5СhoiceOfWords" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -312,5 +343,62 @@
       <updated>1604926971064</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604929759895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604929759895" />
+    <state x="533" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604927446956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604927446956" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604995574559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604995574559" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604995574558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604995574558" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604995574558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604995574558" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604995574559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604995574559" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604939222471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604939222471" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604939222471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604939222471" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604939222471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604939222471" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604939222471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604939222471" />
+    <state x="209" y="32" key="new project wizard" timestamp="1604939349957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604939349957" />
+    <state x="475" y="159" key="refactoring.ChangeSignatureDialog" timestamp="1604928068962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="159" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1604928068962" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="wordsForFileTwo" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
